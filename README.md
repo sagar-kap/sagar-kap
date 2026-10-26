@@ -4,7 +4,7 @@ I work with awesome people at [Weburz](https://github.com/weburz) to create usef
 
 #### 👷 What I'm working on
 
-- [devhaver/readtes](https://github.com/devhaver/readtes) — Read the TES (today)
+- [devhaver/readtes](https://github.com/devhaver/readtes) — Read the TES (1 day ago)
 - [weburz/tech.weburz.com](https://github.com/weburz/tech.weburz.com) — The Weburz engineering site — long-form notes and open-source project docs. (1 week ago)
 - [weburz/terox](https://github.com/weburz/terox) — A CLI tool to scaffold project repositories from prebuilt templates (3 weeks ago)
 - [sagar-kap/frontend-photography](https://github.com/sagar-kap/frontend-photography) — A front end website for a photography shop. (1 month ago)
