@@ -4,9 +4,9 @@ I work with awesome people at [Weburz](https://github.com/weburz) to create usef
 
 #### 👷 What I'm working on
 
-- [weburz/terox-templates](https://github.com/weburz/terox-templates) — Templates monorepo for Terox (today)
-- [weburz/carousel](https://github.com/weburz/carousel) — Drop-in carousels for Nuxt 4 that make YouTube, Instagram, and TikTok embeds behave. (today)
-- [devhaver/readtes](https://github.com/devhaver/readtes) — Read the TES (today)
+- [weburz/terox-templates](https://github.com/weburz/terox-templates) — Templates monorepo for Terox (1 day ago)
+- [weburz/carousel](https://github.com/weburz/carousel) — Drop-in carousels for Nuxt 4 that make YouTube, Instagram, and TikTok embeds behave. (1 day ago)
+- [devhaver/readtes](https://github.com/devhaver/readtes) — Read the TES (1 day ago)
 - [weburz/tech.weburz.com](https://github.com/weburz/tech.weburz.com) — The Weburz engineering site — long-form notes and open-source project docs. (1 week ago)
 - [weburz/terox](https://github.com/weburz/terox) — A CLI tool to scaffold project repositories from prebuilt templates (3 weeks ago)
 
