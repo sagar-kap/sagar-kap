@@ -4,11 +4,11 @@ I work with awesome people at [Weburz](https://github.com/weburz) to create usef
 
 #### 👷 What I'm working on
 
-- [weburz/particle-canvas](https://github.com/weburz/particle-canvas) — Zero-dependency animated particle canvas for Nuxt 4. Drop-in &lt;ParticleCanvas /&gt;  component — ~10KB minified / ~3KB gzipped, TypeScript-first. (today)
-- [weburz/burzblog](https://github.com/weburz/burzblog) — The Burz Blog (today)
-- [weburz/tech.weburz.com](https://github.com/weburz/tech.weburz.com) — The Weburz engineering site — long-form notes and open-source project docs. (today)
-- [weburz/carousel](https://github.com/weburz/carousel) — Drop-in carousels for Nuxt 4 that make YouTube, Instagram, and TikTok embeds behave. (today)
-- [devhaver/kabbalahindia.com](https://github.com/devhaver/kabbalahindia.com) — This is the landing page for the Indian specific context for the Bnei Baruch organisation.  (today)
+- [weburz/particle-canvas](https://github.com/weburz/particle-canvas) — Zero-dependency animated particle canvas for Nuxt 4. Drop-in &lt;ParticleCanvas /&gt;  component — ~10KB minified / ~3KB gzipped, TypeScript-first. (1 day ago)
+- [weburz/burzblog](https://github.com/weburz/burzblog) — The Burz Blog (1 day ago)
+- [weburz/tech.weburz.com](https://github.com/weburz/tech.weburz.com) — The Weburz engineering site — long-form notes and open-source project docs. (1 day ago)
+- [weburz/carousel](https://github.com/weburz/carousel) — Drop-in carousels for Nuxt 4 that make YouTube, Instagram, and TikTok embeds behave. (1 day ago)
+- [devhaver/kabbalahindia.com](https://github.com/devhaver/kabbalahindia.com) — This is the landing page for the Indian specific context for the Bnei Baruch organisation.  (1 day ago)
 
 #### 📜 From the blog
 
