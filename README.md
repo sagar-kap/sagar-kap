@@ -8,7 +8,7 @@ I work with awesome people at [Weburz](https://github.com/weburz) to create usef
 - [weburz/burzblog](https://github.com/weburz/burzblog) — The Burz Blog (today)
 - [jarmos-san/rivu](https://github.com/jarmos-san/rivu) — A modern and type-safe RSS feed generator for Node.js (today)
 - [devhaver/readtes](https://github.com/devhaver/readtes) — Read the TES (today)
-- [weburz/carousel](https://github.com/weburz/carousel) — Drop-in carousels for Nuxt 4 that make YouTube, Instagram, and TikTok embeds behave. (4 days ago)
+- [jarmos-san/wedding.jarmos.dev](https://github.com/jarmos-san/wedding.jarmos.dev) (today)
 
 #### 📜 From the blog
 
