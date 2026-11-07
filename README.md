@@ -4,11 +4,11 @@ I work with awesome people at [Weburz](https://github.com/weburz) to create usef
 
 #### 👷 What I'm working on
 
-- [weburz/tech.weburz.com](https://github.com/weburz/tech.weburz.com) — The Weburz engineering site — long-form notes and open-source project docs. (today)
-- [weburz/burzblog](https://github.com/weburz/burzblog) — The Burz Blog (today)
-- [jarmos-san/rivu](https://github.com/jarmos-san/rivu) — A modern and type-safe RSS feed generator for Node.js (today)
-- [devhaver/readtes](https://github.com/devhaver/readtes) — Read the TES (today)
-- [jarmos-san/wedding.jarmos.dev](https://github.com/jarmos-san/wedding.jarmos.dev) (today)
+- [weburz/tech.weburz.com](https://github.com/weburz/tech.weburz.com) — The Weburz engineering site — long-form notes and open-source project docs. (1 day ago)
+- [weburz/burzblog](https://github.com/weburz/burzblog) — The Burz Blog (1 day ago)
+- [jarmos-san/rivu](https://github.com/jarmos-san/rivu) — A modern and type-safe RSS feed generator for Node.js (1 day ago)
+- [devhaver/readtes](https://github.com/devhaver/readtes) — Read the TES (1 day ago)
+- [jarmos-san/wedding.jarmos.dev](https://github.com/jarmos-san/wedding.jarmos.dev) (1 day ago)
 
 #### 📜 From the blog
 
