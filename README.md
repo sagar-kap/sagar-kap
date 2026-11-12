@@ -4,11 +4,11 @@ I work with awesome people at [Weburz](https://github.com/weburz) to create usef
 
 #### 👷 What I'm working on
 
-- [weburz/burzblog](https://github.com/weburz/burzblog) — The Burz Blog (2 days ago)
-- [sagar-kap/frontend-photography](https://github.com/sagar-kap/frontend-photography) — A front end website for a photography shop. (2 days ago)
-- [devhaver/readtes](https://github.com/devhaver/readtes) — Read the TES (2 days ago)
-- [weburz/tech.weburz.com](https://github.com/weburz/tech.weburz.com) — The Weburz engineering site — long-form notes and open-source project docs. (5 days ago)
-- [jarmos-san/rivu](https://github.com/jarmos-san/rivu) — A modern and type-safe RSS feed generator for Node.js (5 days ago)
+- [sagar-kap/sagarkapoor](https://github.com/sagar-kap/sagarkapoor) — Personal Blog on NuxtJS (1 day ago)
+- [weburz/burzblog](https://github.com/weburz/burzblog) — The Burz Blog (3 days ago)
+- [sagar-kap/frontend-photography](https://github.com/sagar-kap/frontend-photography) — A front end website for a photography shop. (3 days ago)
+- [devhaver/readtes](https://github.com/devhaver/readtes) — Read the TES (3 days ago)
+- [weburz/tech.weburz.com](https://github.com/weburz/tech.weburz.com) — The Weburz engineering site — long-form notes and open-source project docs. (6 days ago)
 
 #### 📜 From the blog
 
