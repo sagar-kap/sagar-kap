@@ -4,11 +4,11 @@ I work with awesome people at [Weburz](https://github.com/weburz) to create usef
 
 #### 👷 What I'm working on
 
-- [sagar-kap/sagarkapoor](https://github.com/sagar-kap/sagarkapoor) — Personal Blog on NuxtJS (6 days ago)
+- [devhaver/kabbalahindia.com](https://github.com/devhaver/kabbalahindia.com) — This is the landing page for the Indian specific context for the Bnei Baruch organisation.  (today)
+- [sagar-kap/sagarkapoor](https://github.com/sagar-kap/sagarkapoor) — Personal Blog on NuxtJS (today)
+- [BB-Docs/BB-Docs.github.io](https://github.com/BB-Docs/BB-Docs.github.io) (1 day ago)
 - [weburz/burzblog](https://github.com/weburz/burzblog) — The Burz Blog (1 week ago)
 - [sagar-kap/frontend-photography](https://github.com/sagar-kap/frontend-photography) — A front end website for a photography shop. (1 week ago)
-- [devhaver/readtes](https://github.com/devhaver/readtes) — Read the TES (1 week ago)
-- [weburz/tech.weburz.com](https://github.com/weburz/tech.weburz.com) — The Weburz engineering site — long-form notes and open-source project docs. (1 week ago)
 
 #### 📜 From the blog
 
