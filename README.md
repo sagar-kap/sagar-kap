@@ -4,7 +4,7 @@ I work with awesome people at [Weburz](https://github.com/weburz) to create usef
 
 #### 👷 What I'm working on
 
-- [sagar-kap/sagarkapoor](https://github.com/sagar-kap/sagarkapoor) — Personal Blog on NuxtJS (1 day ago)
+- [sagar-kap/sagarkapoor](https://github.com/sagar-kap/sagarkapoor) — Personal Blog on NuxtJS (today)
 - [devhaver/kabbalahindia.com](https://github.com/devhaver/kabbalahindia.com) — This is the landing page for the Indian specific context for the Bnei Baruch organisation.  (2 days ago)
 - [BB-Docs/BB-Docs.github.io](https://github.com/BB-Docs/BB-Docs.github.io) (3 days ago)
 - [weburz/burzblog](https://github.com/weburz/burzblog) — The Burz Blog (1 week ago)
@@ -12,9 +12,9 @@ I work with awesome people at [Weburz](https://github.com/weburz) to create usef
 
 #### 📜 From the blog
 
-- [Running Ubuntu Headless on Pi4 from USB](https://www.sagarkapoor.eu/raspberry-pi4-headless-ubuntu-from-usb/) (5 years ago)
-- [Getting Started With Git](https://www.sagarkapoor.eu/getting-started-with-git/) (5 years ago)
-- [How to Scrape a site with Python](https://www.sagarkapoor.eu/how-to-scrape-with-python/) (5 years ago)
+- [I&#39;d rather quote a timeline I believe](https://sagarkapoor.eu/writing/honest-timelines) (6 months ago)
+- [A boring stack is usually a fast one](https://sagarkapoor.eu/writing/boring-stack-fast-sites) (7 months ago)
+- [Ship first, then talk about it](https://sagarkapoor.eu/writing/ship-then-talk) (9 months ago)
 
 #### 💬 Say hi
 
