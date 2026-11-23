@@ -4,7 +4,7 @@ I work with awesome people at [Weburz](https://github.com/weburz) to create usef
 
 #### 👷 What I'm working on
 
-- [weburz/burzblog](https://github.com/weburz/burzblog) — The Burz Blog (1 day ago)
+- [weburz/burzblog](https://github.com/weburz/burzblog) — The Burz Blog (today)
 - [sagar-kap/sagarkapoor](https://github.com/sagar-kap/sagarkapoor) — Personal Blog on NuxtJS (1 day ago)
 - [devhaver/kabbalahindia.com](https://github.com/devhaver/kabbalahindia.com) — This is the landing page for the Indian specific context for the Bnei Baruch organisation.  (2 days ago)
 - [devhaver/readtes](https://github.com/devhaver/readtes) — Read the TES (3 days ago)
