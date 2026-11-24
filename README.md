@@ -5,10 +5,10 @@ I work with awesome people at [Weburz](https://github.com/weburz) to create usef
 #### 👷 What I'm working on
 
 - [weburz/burzblog](https://github.com/weburz/burzblog) — The Burz Blog (today)
-- [sagar-kap/sagarkapoor](https://github.com/sagar-kap/sagarkapoor) — Personal Blog on NuxtJS (1 day ago)
-- [devhaver/kabbalahindia.com](https://github.com/devhaver/kabbalahindia.com) — This is the landing page for the Indian specific context for the Bnei Baruch organisation.  (2 days ago)
-- [devhaver/readtes](https://github.com/devhaver/readtes) — Read the TES (3 days ago)
-- [BB-Docs/BB-Docs.github.io](https://github.com/BB-Docs/BB-Docs.github.io) (1 week ago)
+- [weburz/terox-templates](https://github.com/weburz/terox-templates) — Templates monorepo for Terox (today)
+- [sagar-kap/sagarkapoor](https://github.com/sagar-kap/sagarkapoor) — Personal Blog on NuxtJS (2 days ago)
+- [devhaver/kabbalahindia.com](https://github.com/devhaver/kabbalahindia.com) — This is the landing page for the Indian specific context for the Bnei Baruch organisation.  (3 days ago)
+- [devhaver/readtes](https://github.com/devhaver/readtes) — Read the TES (4 days ago)
 
 #### 📜 From the blog
 
