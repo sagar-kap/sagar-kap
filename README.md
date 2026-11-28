@@ -4,16 +4,16 @@ I work with awesome people at [Weburz](https://github.com/weburz) to create usef
 
 #### 👷 What I'm working on
 
-- [weburz/burzblog](https://github.com/weburz/burzblog) — The Burz Blog (3 days ago)
-- [weburz/terox-templates](https://github.com/weburz/terox-templates) — Templates monorepo for Terox (3 days ago)
-- [sagar-kap/sagarkapoor](https://github.com/sagar-kap/sagarkapoor) — Personal Blog on NuxtJS (5 days ago)
-- [devhaver/kabbalahindia.com](https://github.com/devhaver/kabbalahindia.com) — This is the landing page for the Indian specific context for the Bnei Baruch organisation.  (6 days ago)
+- [weburz/burzblog](https://github.com/weburz/burzblog) — The Burz Blog (4 days ago)
+- [weburz/terox-templates](https://github.com/weburz/terox-templates) — Templates monorepo for Terox (4 days ago)
+- [sagar-kap/sagarkapoor](https://github.com/sagar-kap/sagarkapoor) — Personal Blog on NuxtJS (6 days ago)
+- [devhaver/kabbalahindia.com](https://github.com/devhaver/kabbalahindia.com) — This is the landing page for the Indian specific context for the Bnei Baruch organisation.  (1 week ago)
 - [devhaver/readtes](https://github.com/devhaver/readtes) — Read the TES (1 week ago)
 
 #### 📜 From the blog
 
 - [I&#39;d rather quote a timeline I believe](https://sagarkapoor.eu/writing/honest-timelines) (6 months ago)
-- [A boring stack is usually a fast one](https://sagarkapoor.eu/writing/boring-stack-fast-sites) (7 months ago)
+- [A boring stack is usually a fast one](https://sagarkapoor.eu/writing/boring-stack-fast-sites) (8 months ago)
 - [Ship first, then talk about it](https://sagarkapoor.eu/writing/ship-then-talk) (9 months ago)
 
 #### 💬 Say hi
